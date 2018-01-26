@@ -1,0 +1,22 @@
+{
+  "name": "mha-web-front-deploy",
+  "version": "0.0.1",
+  "description": "deploy the mha-web-front",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandapaul/mha-web-front-deploy.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandapaul/mha-web-front-deploy/issues"
+  },
+  "homepage": "https://github.com/pandapaul/mha-web-front-deploy#readme",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "standard": "^10.0.3"
+  }
+}
